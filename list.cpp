@@ -152,6 +152,8 @@ int main(int argc, char *argv[])
 	
 	#endif
 	
+	cout << "bye bye"<<endl;
+	
 	return 1;
 
 }
